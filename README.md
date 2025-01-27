@@ -13,4 +13,4 @@ I'm André Bação and welcome to my Github profile.
 - ❓ Ask me about anything you would like. 💬 Answers may not apply.
 - 📫 How to reach me: [abacao](https://keybase.io/abacao).
 
-<p align="right"> <h4>Profile Views :</h4><img src="https://komarev.com/ghpvc/?username=abacao&label=Profile%20views&color=0e75b6&style=flat" alt="iimmags" /></p>
+<p align="right"> <h4>Profile Views :</h4><img src="https://komarev.com/ghpvc/?username=abacao&label=Zombies&color=0e75b6&style=for-the-badge&abbreviated=true" /></p>
